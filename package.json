@@ -1,0 +1,20 @@
+{
+  "name": "@zhaoyao91/callmise",
+  "version": "0.0.0",
+  "description": "Call a callback style function and return a promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "callmise"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@aliyun.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0"
+  }
+}
